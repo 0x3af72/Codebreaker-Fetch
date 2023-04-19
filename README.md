@@ -8,7 +8,7 @@ Download [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor
 
 Go to Codebreaker, export your cookies using Cookie Editor
 
- *- To do this, click the puzzle icon on the top right corner, click on Cookie Editor and find the export button*
+- To do this, click the puzzle icon on the top right corner, click on Cookie Editor and find the export button
  
 Paste your cookies into cookie.json
 
