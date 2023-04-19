@@ -1,0 +1,15 @@
+[
+    {
+        "domain": "codebreaker.xyz",
+        "expirationDate": 1684580173.314379,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "google-login-session",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "<session token here. this is just an example of how your cookie.json should look like.>"
+    }
+]
